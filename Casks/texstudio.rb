@@ -1,6 +1,6 @@
 class Texstudio < Cask
   version 'latest'
-  sha256 :nocheck
+  sha256 :no_check
 
   url 'http://sourceforge.net/projects/texstudio/files/latest/download'
 
